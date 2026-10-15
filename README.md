@@ -1,4 +1,4 @@
-# DRH Mod Index
+# DRH Mods Index
 
 The mods [DRH Launcher](https://github.com/Tutez64/DRH-Launcher) offers for [Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe). It points to each version's zip, a release asset of the mod's own repository; it holds no mod.
 
@@ -10,8 +10,8 @@ One file per version, `mods/<id>/<version>.json`. `--pack-mod` writes it with th
 
 ## Reading the index
 
-Every entry, generated on each merge: `https://tutez64.github.io/DRH-Mod-Index/index.json`. Its format is in [Index entry](https://github.com/Tutez64/Dungeon-Rampage-Haxe/blob/master/docs/modding.md#index-entry).
+Every entry, generated on each merge: `https://tutez64.github.io/DRH-Mods-Index/index.json`. Its format is in [Index entry](https://github.com/Tutez64/Dungeon-Rampage-Haxe/blob/master/docs/modding.md#index-entry).
 
 ## License
 
-The entries and `index.json` are under [CC BY 4.0](LICENSE): reuse them, crediting the DRH Mod Index and, for its texts, each entry's `author`. Submitting an entry publishes it under that license, its texts included. The CI's code, under `.github/`, is under [GPLv3](.github/LICENSE).
+The entries and `index.json` are under [CC BY 4.0](LICENSE): reuse them, crediting the DRH Mods Index and, for its texts, each entry's `author`. Submitting an entry publishes it under that license, its texts included. The CI's code, under `.github/`, is under [GPLv3](.github/LICENSE).
